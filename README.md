@@ -1,5 +1,5 @@
-# Welcome to Mohamed's Profile!  
-![Profile Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+# Welcome to My Profile!  
+![AI GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ## 🚀 About Me  
 🏢 I’m currently a **Computer and Communication Engineering** student at **Shoubra Faculty of Engineering**.  
@@ -10,9 +10,9 @@
 📚 Currently expanding my expertise in **Data Science, Software Engineering, and Advanced Algorithms**.  
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/mohamed-toukhy-628a2927b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/mohamed-toukhy-628a2927b)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohamedtoukhy03)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)]([https://leetcode.com/YOUR-LEETCODE-USERNAME/](https://leetcode.com/u/mohameddawam/))  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mohameddawam/)  
 
 ## 🛠 Tech Skills  
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B)  
