@@ -1,5 +1,4 @@
 # Welcome to My Profile!  
-![AI GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
 ## 🚀 About Me  
 🏢 I’m currently a **Computer and Communication Engineering** student at **Shoubra Faculty of Engineering**.  
