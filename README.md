@@ -2,7 +2,6 @@
 
 ## 🚀 About Me  
 🏢 I’m currently a **Computer and Communication Engineering** student at **Shoubra Faculty of Engineering**.  
-👨‍💻 **Competitive programming enthusiast**  
 🧠 Passionate **Java Developer** and currently studying **AI**.  
 🚀 Skilled in **competitive programming**  
 💼 Proficient in multiple programming languages, including **C++, Python, Java, SQL, and JavaScript**.  
