@@ -5,7 +5,7 @@
 🧠 Passionate **Java Developer** and currently studying **AI**.  
 🚀 Skilled in **competitive programming**  
 💼 Proficient in multiple programming languages, including **C++, Python, Java, SQL, and JavaScript**.  
-📚 Currently expanding my expertise in **Data Science, Software Engineering, and Advanced Algorithms**.  
+📚 Currently expanding my expertise in **AI, Software Engineering, and Advanced Algorithms**.  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/mohamed-toukhy-628a2927b) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mohameddawam/)  
