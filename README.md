@@ -32,6 +32,8 @@
 **AI Trainee @ NTI (2024)** — ML/DL/NLP + Python libraries  
 **ICPC-SFE Instructor** — Teaching C++, Algorithms, and Data Structures
 
+---
+
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/mohamed-toukhy-628a2927b)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mohameddawam/)  
